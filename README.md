@@ -1,7 +1,10 @@
 # xcURL
-##Download Websites
+## Download Websites
 
-##Use 
+## Use 
 
-$pip install .
-pip3 install .$
+```
+pip install .  or  pip3 install . 
+```
+
+## Be sure to be in the root directory of the folder
